@@ -43,7 +43,7 @@ To get started with my React Redux eCommerce website, follow these steps:
 1. Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/sksabbirhossain/megamart-ecommerce.git
+   git clone https://github.com/YujiTech/Megamart.git  
    ```
 
 2. Change to the project directory.
